@@ -19,8 +19,36 @@
 			- new CASC bid upcoming
 		- getting more funding for the center
 5. Announcements (3 min)
+	- future CC research meetings
+		- March 21
+		- April 18
 	- SC-CASC ideation session
 		- March 25 1-3 PM
 		- March 26 10 AM -12 PM
+	- SC Climate Resilience Forum
+		- April 2-4
+		- early bird registration closes tomorrow
 
 ## meeting notes
+- what to do
+	- research presentations
+		- in favor of picking those back up
+		- have found collaborators in the past
+	- fund usage
+		- grad students -- fund their
+		- undergrads for coms and outreach
+	- research talks on march 21
+		- evan and natasja
+	- funding discussion april 18
+- getting more interest in the center
+	- get someone to lead this
+	- meet with everyone individually
+- logo and branding
+	- earth day competition
+	- english department web design and logo competition
+- speaker in engineering
+	- april 5
+- abi funding
+	- cynthia and george mitchell foundation
+		- funds institutes and centers
+		
