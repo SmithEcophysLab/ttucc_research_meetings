@@ -1,9 +1,19 @@
 # climate center outreach meeting notes
 ## march 7, 2024
 
+- attendees
+	- Yimin Lu
+	- Nick Smith
+	- Eve Gray
+	- Ting Lin
+	- Bryan Giemza
+	- Steffi Borst
+	- Christine Vanginault
+	- Cristina Bradatan
+
 - science by the glass	
 	- livestreaming these
-	- facebook live (for livestreaming)
+		- facebook live (for livestreaming)
 	- broaden the coverage of this
 	- get these on the website
 	- rebrand to show it's more family friendly
@@ -38,6 +48,7 @@
 
 - table banners
 	- can get simple things printed ($200/table cloth)
+		- steffi can help with this
 	- order by end of march
 	- pick a non-black and red color
 

@@ -1,11 +1,9 @@
 # TTU Climate Center research meeting notes
 ## February 15, 2024
 
-## pre-meeting agenda items
-
+## pre-meeting agenda items and notes
 1. Introductions (10 min)
-	- Nick, John, Kathryn
-	- others: name, department, research interests/expertise
+	- name, department, research interests/expertise
 2. What is the TTU Climate Center? (5 min)
 	- center to support climate-related research and outreach
 	- part of the SC_CASC
@@ -30,16 +28,34 @@
 		- early bird registration closes tomorrow
 
 ## meeting notes
+- introductions
+	- Nick Smith, incoming director. 
+	- Evan Perkowski -- postdoc in biology
+	- Stephanie Borst – interested in climate change, marketing it to students. 
+	- Natasja van Gestel -- ecosystem ecology
+	- Dylan Schwilk – feedbacks between vegetation and fire patterns
+	- Online: Lisa Phillips: Dept of English; communication. Climate Justice/Environmental justice. 
+	- Kerry: Natural resources management. Wildlife and water resources. 
+	- Abinash Bhattachan: Asst professor in Geosciences. Aeolian processes and land use and land cover change linked to erosion. Food systems. Ecosystems and humans.
+	- Juske Horita: Carbon/nitrogen istopes; interest in water cycle. 
+	- Kathryn Tiedemann: Communications and outreach coordinater with TTU Climate Center. 
+	- Ting Ling: Earth systems and sea level rise. 
+	- Jyotsna Sharma: Plant and Soil Sciences
 - what to do
 	- research presentations
 		- in favor of picking those back up
 		- have found collaborators in the past
 	- fund usage
-		- grad students -- fund their
+		- grad students -- fund them through assisting in climate center-related activities (GA/RA)
 		- undergrads for coms and outreach
 	- research talks on march 21
 		- evan and natasja
 	- funding discussion april 18
+		- rebid coming up soon --> what do we want to do
+		- spreading money across campus would be of interest
+		- can discuss getting more funding through donations
+- notetaker
+	- natasja has volunteered
 - getting more interest in the center
 	- get someone to lead this
 	- meet with everyone individually
