@@ -1,0 +1,52 @@
+# TTU Climate Center research meeting notes
+## March 21, 2024
+
+- climate center research symposium
+	- folks are generally supportive
+	- may need a lot of time to get this put together
+		- spring next year?
+	- could tie into fundraising (e.g., donors for event)
+
+- natasja van gestel research presentation
+	- modulation of environment-carbon cycle impacts by biology in ecosystems
+	- land sink strength (aim 1)
+		- determine whether impacted by warming
+		- antarctica + other places
+		- warming impacts carbon in and out of ecosystems
+		- not clear how warming will impact ecosystem C
+		- antarctica work
+			- one of most rapidly warming regions in the world
+			- glaciers receding with warming
+				- receded 600 m at the study site (palmer station)
+			- gradient of glacier recession at site
+			- open top chambers to warm the ecosystem
+			- results: warming is reducing the carbon sink
+			- also doing more detailed physiology on mosses
+			- linking gene expression to moss physiology
+			- also looking at microbes in the ecosystem
+				- stable isotope method for microbial growth
+	- carbon sequestration in agricultural soils (aim 2)
+		- putting carbon in the soils make the soils better and mitigate climate change
+		- done in lubbock
+			- cotton
+		- using on-farm fields to look at the practices that might help with soil C sequestration
+			- no till
+			- residue retention
+			- cover crops
+			- rotating crops
+		- heat and drought effects on cotton physiology and carbon balance of ecosystems
+		- impact of biochar on soil carbon and cotton yield
+		- soil water dynamics in agro-ecosystems
+	- questions
+		- isotope labeling can be used for fungi as well as bacteria
+		- there are macrofungi growing in antarctica
+		- microbial diversity and activity are linked
+			- team is working on making this linkage
+		- microbes also influences the environment
+		- nee also related to atmospheric mixing
+		- anaerobic decomposition?
+			- not measuring
+
+- future research meetings
+	- sandip is up for it!
+		- soil-atmosphere feedbacks
