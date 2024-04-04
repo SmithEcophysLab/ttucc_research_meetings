@@ -14,19 +14,19 @@
 	- arbor day (4/26)
 	- welcome week (fall)
 	- arts and sciences day
-	- what to do at these event?
-		- plant swap
-			- exchange house plants
-			- kathryn has flyers
-		- tote bags
-			- painting blank ones?
-			- **cotton bags**
-				- same as A&S ones
-		- stickers
-			- zazzle?
-			- same place as table cloths and totes
-			- steffi has some
-			- **brandability**: company that makes these
+- what to do at these event?
+	- plant swap
+		- exchange house plants
+		- kathryn has flyers
+	- tote bags
+		- painting blank ones?
+		- **cotton bags**
+		- same as A&S ones
+	- stickers
+		- zazzle?
+		- same place as table cloths and totes
+		- steffi has some
+		- **brandability**: company that makes these
 - bryan on fulbright in belgium next fall
 	- willing to give talk on climate disinformation
 	- special science by the glass talk?
